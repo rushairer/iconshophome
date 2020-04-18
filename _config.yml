@@ -13,7 +13,7 @@ header:
     primary: true
     new_window: true
 footer:
-  logo_img: "/images/Logo.png"
+  logo_img: "/images/Logo.dark.png"
   tagline: ''
   has_nav: true
   nav_title: ''
