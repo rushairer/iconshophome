@@ -45,7 +45,7 @@ sections:
     image: "/images/iconshop.features3.png"
     actions:
     - label: Learn More
-      url: "/features"
+      url: https://github.com/rushairer/IconShopFeedbacks/wiki
       primary: false
       new_window: false
 - type: section_cta
