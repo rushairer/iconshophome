@@ -55,7 +55,7 @@ sections:
   subtitle: Even product managers and programmers can easily make icons them self!
   actions:
   - label: Get It Now!
-    url: https://github.com/rushairer/iconshophome/releases/download/V1.0/IconShop_V1.0_Build2572.dmg
+    url: https://github.com/rushairer/iconshophome/releases/download/V1.0/IconShop_V1.0_Build2580.dmg
     primary: false
     new_window: false
 layout: landing
