@@ -42,3 +42,5 @@ fields:
   default: section_hero
   config:
     required: true
+pages:
+- download.md
