@@ -8,7 +8,7 @@ sections:
   content: Making Icons Easily.
   image: images/hero.png
   actions:
-  - label: Learn More
+  - label: Download V1.0 (Build 2568)
     url: "/features"
     primary: false
     new_window: false
