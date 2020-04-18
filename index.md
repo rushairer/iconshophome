@@ -27,7 +27,7 @@ sections:
     image: "/images/iconshop.features1.png"
     actions:
     - label: Learn More
-      url: "/features"
+      url: https://github.com/rushairer/IconShopFeedbacks/wiki
       primary: false
       new_window: false
   - title: Export Image Set or App Icon For Xcode
