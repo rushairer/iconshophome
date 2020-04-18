@@ -5,7 +5,7 @@ permalink: "/:title/"
 palette: orange
 header:
   title: IconShop
-  logo_img: "/images/AppIcon_512x512@1x.png"
+  logo_img: "/images/Logo.png"
   has_nav: true
   nav_links:
   - label: Feedbacks
