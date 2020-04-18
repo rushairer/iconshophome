@@ -59,6 +59,5 @@ sections:
     primary: false
     new_window: false
 layout: landing
-published: false
 
 ---
