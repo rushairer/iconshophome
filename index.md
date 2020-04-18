@@ -36,7 +36,7 @@ sections:
     image: "/images/iconshop.features2.png"
     actions:
     - label: Learn More
-      url: "/features"
+      url: https://github.com/rushairer/IconShopFeedbacks/wiki
       primary: false
       new_window: false
   - title: Import your SVG file, export to Xcode just drag it!
