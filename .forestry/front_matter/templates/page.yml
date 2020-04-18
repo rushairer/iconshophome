@@ -25,6 +25,5 @@ fields:
     required: true
 pages:
 - about.md
-- download-iconshop-free.md
 - signup.md
 - style-guide.md
