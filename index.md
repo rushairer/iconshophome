@@ -20,9 +20,10 @@ sections:
     for Xcode.
   background: gray
   features:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
+  - title: Convert SF Symbols to Image
+    content: Do you want to use SF Symbols in iOS13 earlier? IconShop can help you
+      to convert SF Symbols to image easily. You can change 'color', 'scale', 'rotation',
+      'background color' and 'background radius' of the image.
     image: images/feature1.png
     actions:
     - label: Learn More
