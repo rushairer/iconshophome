@@ -31,6 +31,7 @@ fields:
     required: true
 pages:
 - "./features-1.md"
+- "./features-2.md"
 - "./features.md"
 - contact.md
 - features.md
