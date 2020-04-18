@@ -4,21 +4,10 @@ baseurl: "/"
 permalink: "/:title/"
 palette: orange
 header:
-  title: Azimuth
+  title: IconShop
   logo_img: images/logo.png
   has_nav: true
-  nav_links:
-  - label: Home
-    url: "/"
-  - label: Features
-    url: "/features"
-  - label: Pricing
-    url: "/pricing"
-  - label: Style Guide
-    url: "/style-guide"
-  - label: Sign Up
-    url: "/signup"
-    primary: true
+  nav_links: []
 footer:
   logo_img: images/logo_alt.png
   tagline: SaaS theme by Stackbit
