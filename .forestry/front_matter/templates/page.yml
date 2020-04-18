@@ -23,11 +23,6 @@ fields:
   default: page
   config:
     required: true
-- name: download
-  type: include
-  config: {}
-  template: section_hero
-  label: Download
 pages:
 - about.md
 - download-iconshop-free.md
