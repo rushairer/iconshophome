@@ -30,9 +30,9 @@ sections:
       url: "/features"
       primary: false
       new_window: false
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
+  - title: Export Image Set or App Icon For Xcode
+    content: Export images for Xcode, just drag the folder into Xcode 'Assets.xcassets'
+      view.
     image: images/feature2.png
     actions:
     - label: Learn More
