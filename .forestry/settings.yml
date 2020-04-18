@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: admin
 webhook_url: https://api.stackbit.com/project/5e9a88df0be711001ab87a19/webhook/forestry
 sections:
-- type: jekyll-pages
-  label: Jekyll Pages
-  create: all
 - type: document
   path: _config.yml
   label: Site Configuration

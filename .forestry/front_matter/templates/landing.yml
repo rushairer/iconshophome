@@ -31,10 +31,6 @@ fields:
     required: true
 pages:
 - contact.md
-- contact.md
-- features.md
 - features.md
 - index.md
-- index.md
-- pricing.md
 - pricing.md
