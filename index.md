@@ -16,8 +16,8 @@ sections:
   template: section_features
   title: Features
   section_id: features
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  subtitle: Convert SF Symbols or custom string to icon, export Image Set or App Icon
+    for Xcode.
   background: gray
   features:
   - title: The Best Feature of Your Services
@@ -85,5 +85,6 @@ sections:
   background: gray
   subtitle: ''
 layout: landing
+published: false
 
 ---
