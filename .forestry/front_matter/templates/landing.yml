@@ -30,11 +30,11 @@ fields:
   config:
     required: true
 pages:
-- "./contact.md"
-- "./features-1.md"
-- "./features-2.md"
-- "./features.md"
+- contact.md
 - contact.md
 - features.md
+- features.md
 - index.md
+- index.md
+- pricing.md
 - pricing.md

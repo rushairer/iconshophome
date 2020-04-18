@@ -25,5 +25,8 @@ fields:
     required: true
 pages:
 - about.md
+- about.md
 - signup.md
+- signup.md
+- style-guide.md
 - style-guide.md
