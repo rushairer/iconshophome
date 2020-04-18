@@ -33,7 +33,7 @@ sections:
   - title: Export Image Set or App Icon For Xcode
     content: Export images for Xcode, just drag the folder into Xcode 'Assets.xcassets'
       view.
-    image: images/feature2.png
+    image: "/images/iconshop.features2.png"
     actions:
     - label: Learn More
       url: "/features"
