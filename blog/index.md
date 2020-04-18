@@ -1,4 +1,5 @@
 ---
-title: Blog
+title: IconShop
 layout: blog
+
 ---
