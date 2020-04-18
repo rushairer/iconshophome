@@ -5,8 +5,7 @@ sections:
   template: section_hero
   title: IconShop App
   section_id: hero
-  content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
-    who need a sleek, modern SaaS site. '
+  content: Making Icons Easily.
   image: images/hero.png
   actions:
   - label: Learn More
