@@ -2,41 +2,42 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: admin
-webhook_url: 'https://api.stackbit.com/project/5e9a88df0be711001ab87a19/webhook/forestry'
+webhook_url: https://api.stackbit.com/project/5e9a88df0be711001ab87a19/webhook/forestry
 sections:
-  - type: document
-    label: Site Configuration
-    path: _config.yml
-    templates:
-      - config
-  - type: directory
-    path: ''
-    match: '**/*.md'
-    exclude: '{README.md,LICENSE.md,blog/index.md}'
-    label: Landing Page
-    create: all
-    templates:
-      - landing
-  - type: document
-    label: Blog
-    path: blog/index.md
-    templates:
-      - blog
-  - type: directory
-    path: ''
-    match: '**/*.md'
-    exclude: '{_posts/**,README.md,LICENSE.md,blog/index.md}'
-    label: Page
-    create: all
-    templates:
-      - page
-  - type: jekyll-posts
-    label: Post
-    create: all
-    templates:
-      - post
+- type: document
+  path: _config.yml
+  label: Site Configuration
+  templates:
+  - config
+- type: document
+  path: blog/index.md
+  label: Blog
+  templates:
+  - blog
+- type: directory
+  path: ''
+  label: Page
+  create: all
+  match: "**/*.md"
+  exclude: "{_posts/**,README.md,LICENSE.md,blog/index.md}"
+  templates:
+  - page
+- type: jekyll-posts
+  label: Post
+  create: all
+  templates:
+  - post
 upload_dir: images
-public_path: /images
+public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
-file_template: ':filename:'
+file_template: ":filename:"
+build:
+  preview_env:
+  - JEKYLL_ENV=staging
+  preview_output_directory: _site
+  install_dependencies_command: bundle install --path vendor/bundle
+  preview_docker_image: forestryio/ruby:2.6
+  mount_path: "/srv"
+  instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
+    --port 8080 --host 0.0.0.0 -d _site
