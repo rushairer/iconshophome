@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: section_hero
   template: section_hero
-  title: IconShop App
+  title: IconShop For Mac
   section_id: hero
   content: Making Icons Easily.
   image: "/images/iconshop.preview-1.png"
