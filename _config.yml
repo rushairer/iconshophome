@@ -7,7 +7,11 @@ header:
   title: IconShop
   logo_img: "/images/AppIcon_512x512@1x.png"
   has_nav: true
-  nav_links: []
+  nav_links:
+  - label: Feedbacks
+    url: https://github.com/rushairer/IconShopFeedbacks/issues
+    primary: true
+    new_window: true
 footer:
   logo_img: "/images/AppIcon_512x512@1x.png"
   tagline: ''
