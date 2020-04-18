@@ -30,6 +30,7 @@ fields:
   config:
     required: true
 pages:
+- "./contact.md"
 - "./features-1.md"
 - "./features-2.md"
 - "./features.md"
