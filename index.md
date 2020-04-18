@@ -24,7 +24,7 @@ sections:
     content: Do you want to use SF Symbols in iOS13 earlier? IconShop can help you
       to convert SF Symbols to image easily. You can change 'color', 'scale', 'rotation',
       'background color' and 'background radius' of the image.
-    image: images/feature1.png
+    image: "/images/iconshop.features1.png"
     actions:
     - label: Learn More
       url: "/features"
