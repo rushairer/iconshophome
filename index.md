@@ -39,10 +39,10 @@ sections:
       url: "/features"
       primary: false
       new_window: false
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
-    image: images/feature3.png
+  - title: Import your SVG file, export to Xcode just drag it!
+    content: Export all sizes at once, how about have a cup of coffee in the saved
+      time?
+    image: "/images/iconshop.features3.png"
     actions:
     - label: Learn More
       url: "/features"
