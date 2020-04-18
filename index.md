@@ -9,7 +9,7 @@ sections:
   image: images/hero.png
   actions:
   - label: Download V1.0 (Build 2568)
-    url: "/features"
+    url: https://github.com/rushairer/iconshophome/releases/download/V1.0/IconShop_V1.0_Build2568.dmg
     primary: false
     new_window: false
 - type: section_features
