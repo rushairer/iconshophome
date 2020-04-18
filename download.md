@@ -5,6 +5,5 @@ section_id: download
 content: Download
 image: "/images/iconshop.features1.png"
 actions: []
-published: false
 
 ---
