@@ -6,12 +6,12 @@ sections:
   title: IconShop App
   section_id: hero
   content: Making Icons Easily.
-  image: images/hero.png
+  image: "/images/iconshop.preview.png"
   actions:
   - label: Download V1.0 (Build 2568)
     url: https://github.com/rushairer/iconshophome/releases/download/V1.0/IconShop_V1.0_Build2568.dmg
-    primary: false
-    new_window: false
+    primary: true
+    new_window: true
 - type: section_features
   template: section_features
   title: Features
