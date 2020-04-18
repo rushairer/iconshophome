@@ -54,8 +54,8 @@ sections:
   section_id: call-to-action
   subtitle: Even product managers and programmers can easily make icons them self!
   actions:
-  - label: Get Started
-    url: "/signup"
+  - label: Get It Now!
+    url: https://github.com/rushairer/iconshophome/releases/download/V1.0/IconShop_V1.0_Build2568.dmg
     primary: false
     new_window: false
 layout: landing
