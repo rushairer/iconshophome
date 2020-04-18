@@ -16,7 +16,7 @@ footer:
   logo_img: "/images/AppIcon_512x512@1x.png"
   tagline: ''
   has_nav: true
-  nav_title: Thanks
+  nav_title: ''
   nav_links: []
   has_social: false
   social_title: Community
