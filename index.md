@@ -8,8 +8,8 @@ sections:
   content: Making Icons Easily.
   image: "/images/iconshop.preview-1.png"
   actions:
-  - label: Download V1.0 (Build 2583)
-    url: https://github.com/rushairer/iconshophome/releases/download/V1.0/IconShop_V1.0_Build2583.dmg
+  - label: Download V1.0.1 (Build 2605)
+    url: https://github.com/rushairer/iconshophome/releases/download/V1.0.1/IconShop_V1.0.1_Build2605.pkg
     primary: true
     new_window: true
 - type: section_features
