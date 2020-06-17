@@ -8,8 +8,8 @@ sections:
   content: Making Icons Easily.
   image: "/images/iconshop.preview-1.png"
   actions:
-  - label: Download V1.0.1 (Build 2605)
-    url: https://github.com/rushairer/iconshophome/releases/download/V1.0.1/IconShop_V1.0.1_Build2605.pkg
+  - label: Download From AppStore
+    url: https://apps.apple.com/app/apple-store/id1508200041?pt=117739636&ct=homepage&mt=8
     primary: true
     new_window: true
 - type: section_features
