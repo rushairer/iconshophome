@@ -55,7 +55,7 @@ sections:
   subtitle: Even product managers and programmers can easily make icons them self!
   actions:
   - label: Get It Now!
-    url: https://github.com/rushairer/iconshophome/releases/download/V1.0.1/IconShop_V1.0.1_Build2605.pkg
+    url: https://apps.apple.com/app/apple-store/id1508200041?pt=117739636&ct=homepage&mt=8
     primary: false
     new_window: false
 layout: landing
