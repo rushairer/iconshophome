@@ -2,8 +2,9 @@
 title: Terms of Service
 excerpt: lorem-ipsum
 layout: page
----
+published: false
 
+---
 Wenzhi Hu develops and publishes apps for mobile devices. In this policy, "IconShopApp" may also refer to  "IconShopApp", "We" or "Us".
 
 This Agreement requires the use of arbitration on an individual basis to resolve disputes, rather than jury trials or class actions, and also limits the remedies available to you in the event of a dispute.
