@@ -4,29 +4,10 @@ auto_deploy: false
 admin_path: admin
 webhook_url: https://api.stackbit.com/project/5e9a88df0be711001ab87a19/webhook/forestry
 sections:
-- type: document
-  path: _config.yml
-  label: Site Configuration
-  templates:
-  - config
-- type: document
-  path: blog/index.md
-  label: Blog
-  templates:
-  - blog
-- type: directory
-  path: ''
-  label: Page
+- type: jekyll-pages
+  label: sidebar
   create: all
-  match: "**/*.md"
-  exclude: "{_posts/**,README.md,LICENSE.md,blog/index.md}"
-  templates:
-  - page
-- type: jekyll-posts
-  label: Post
-  create: all
-  templates:
-  - post
+  match: "**/*"
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
