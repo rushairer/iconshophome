@@ -5,9 +5,8 @@ admin_path: admin
 webhook_url: https://api.stackbit.com/project/5e9a88df0be711001ab87a19/webhook/forestry
 sections:
 - type: jekyll-pages
-  label: sidebar
+  label: Pages
   create: all
-  match: "**/*"
 upload_dir: images
 public_path: "/images"
 front_matter_path: ''
