@@ -2,7 +2,6 @@
 title: Terms of Service
 excerpt: lorem-ipsum
 layout: page
-published: false
 
 ---
 Wenzhi Hu develops and publishes apps for mobile devices. In this policy, "IconShopApp" may also refer to  "IconShopApp", "We" or "Us".
